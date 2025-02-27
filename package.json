@@ -1,0 +1,11 @@
+{
+  "name": "swiggy-ui-clone",
+  "version": "1.0.0",
+  "description": "Swiggy UI Clone",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mahantesh",
+  "license": "ISC"
+}
